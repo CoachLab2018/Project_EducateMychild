@@ -58,6 +58,9 @@ b,
 strong {
   font-weight: bold;
 }
+#loginModal{
+	background: lightblue;
+}
 dfn {
   font-style: italic;
 }
